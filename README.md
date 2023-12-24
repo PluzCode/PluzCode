@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react , nodeJs javaScript**
 
-- 📫 How to reach me **pluzcode@gmail.com**
+- 📫 How to reach me **codepluz@gmail.com**
 
 - ⚡ Fun fact **The average computer mouse travels over 1 mile in a month.**
 
