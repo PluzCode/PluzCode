@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pluzcode" alt="pluzcode" /></a> </p>
 
 - 🔭 I’m currently working on [youtube tutorial](https://www.youtube.com/@PluzCode)
-
-- 🌱 I’m currently learning **react & JavaScript algorithm & data structure**
-
+ 
 - 💬 Ask me about **react , nodeJs javaScript**
 
 - 📫 How to reach me **pluzcode@gmail.com**
